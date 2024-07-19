@@ -1,0 +1,9 @@
+https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147  -->cnbc
+
+https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10000115 -->cnbc(real estate)
+
+https://the7circles.uk/feed/ -->7 circles blog
+
+
+
+every piece of code has a comment that tells about its functioning and working 

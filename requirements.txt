@@ -1,0 +1,7 @@
+streamlit
+spacy
+requests
+beautifulsoup4
+feedparser==6.0.10
+
+#python -m spacy download en_core_web_sm
